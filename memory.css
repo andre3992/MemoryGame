@@ -18,3 +18,12 @@
 .shown {
     background: yellow;
 }
+
+.tittle p {
+    text-align: center;
+}
+
+.missing {
+    text-align: right;
+    margin-right: 40px;
+}
